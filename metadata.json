@@ -1,5 +1,0 @@
-{
-  "name": "CosmoSlim Clinic Prescription Automator",
-  "description": "A web application for CosmoSlim aesthetic clinic to automate prescription form filling and store patient data in CSV format, with an export feature.",
-  "requestFramePermissions": []
-}
